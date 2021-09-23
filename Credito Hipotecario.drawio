@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-09-22T22:04:49.930Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.75 Safari/537.36" etag="IWsw92hTMp5Ow7UiDJkh" version="15.3.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-09-23T14:06:48.537Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.75 Safari/537.36" etag="uUVd6o1PsmJE5bE3PMIx" version="15.3.0" type="github">
   <diagram id="pS8KY29G24BmzdlDwVjM" name="Credito Hipotecario">
-    <mxGraphModel dx="1865" dy="1715" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1695" dy="1619" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="le1W6F8i_ccFlPAa-Frw-0" />
         <mxCell id="le1W6F8i_ccFlPAa-Frw-1" parent="le1W6F8i_ccFlPAa-Frw-0" />
@@ -130,7 +130,7 @@
           <mxGeometry x="280" y="80" width="160" height="200" as="geometry" />
         </mxCell>
         <mxCell id="le1W6F8i_ccFlPAa-Frw-44" value="Centrales de Riesgo SI/NO" style="ellipse;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="le1W6F8i_ccFlPAa-Frw-43" vertex="1">
-          <mxGeometry x="20" y="140" width="110" height="50" as="geometry" />
+          <mxGeometry x="24" y="135" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="le1W6F8i_ccFlPAa-Frw-46" value="Oficina" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="le1W6F8i_ccFlPAa-Frw-43" vertex="1">
           <mxGeometry y="105" width="50" height="20" as="geometry" />
